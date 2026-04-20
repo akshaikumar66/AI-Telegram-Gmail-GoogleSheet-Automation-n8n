@@ -41,6 +41,10 @@ This project is an AI-powered automation workflow built using n8n. It integrates
 3. Activate the workflow
 4. Start interacting via Telegram bot
 
+## 📸 Workflow Screenshot
+
+![Workflow](workflow.png)
+
 ## 📄 Documentation
 
 Detailed explanation available in:
